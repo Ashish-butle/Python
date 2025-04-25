@@ -11,3 +11,7 @@ print("{} is the virus name ".format(name))
 print("{} is the virus name and it causes {}".format(name, disease))
 
 print(f"{name} is the virus name and it causes {disease}" )
+
+# Concatenation
+print("The name of virus is" + " " + name)
+
